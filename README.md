@@ -44,9 +44,9 @@ Atividade I para a matéria de Desenvolvimento Web IV do aluno Bruno de Oliveira
 1. É um software capaz de executar comandos JavaScript sem a necessidade de haver um navegador web.
 2. Versão Node.js 8.10.0
 3. - [ ] **Instalação da Ferramenta**
-      - [ ] Caso não possui a ferramenta de transferência de dados "curl", instale-a com "sudo apt install curl" no terminal.
+      - [ ] Caso não possua a ferramenta de transferência de dados "cURL", instale-a com "sudo apt install curl" no terminal.
       - [ ] No terminal, execute o comando do curl "curl -sl https://deb.nodesource.com/setup_14.x | sudo -E bash -".
-      - [ ] Após o término, execute o comando "sudo apt-get install -y node.js"
+      - [ ] Após o término, execute o comando "sudo apt-get install node.js"
       - [ ] Ao fim do download e instalação estará pronto para o uso..
 4. Configurado para Ubuntu.
       

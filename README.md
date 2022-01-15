@@ -25,7 +25,6 @@ Atividade I para a matéria de Desenvolvimento Web IV do aluno Bruno de Oliveira
 1. É um sistema gerenciador de bancos de dados que utiliza a linguagem SQL.
 2. Versão MySQL 14.14 Distrib 5.7.36
 3. - [ ] **Instalação da Ferramenta**
-      - [ ] Vá ao site de [downloads do MySQL para Ubuntu](https://dev.mysql.com/downloads/mysql/5.7.html) e baixe a versão **Linux - Generic (glibc 2.12) (x86, 64-bit), TAR**.
       - [ ] No terminal, execute o comando "sudo apt install mysql-server".
       - [ ] Após a instalação estar concluída, para criar usuários acesse o MySQL via terminal executando o comando "sudo mysql".
       - [ ] No MySQL execute o comando SQL "CREATE USER 'usuario'@'localhost' IDENTIFIED BY 'senha';".

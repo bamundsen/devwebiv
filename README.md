@@ -52,8 +52,8 @@ Atividade I para a matéria de Desenvolvimento Web IV do aluno Bruno de Oliveira
 4. Configurado para Ubuntu.
       
 ## 6 - Postman
-1. É um .
-2. Versão 
+1. É um "API Client" no qual se pode criar e gerenciar solicitações HTTP e HTTPs, a fim de testar APIs.
+2. Versão Postman 9.8.3
 3. - [ ] **Instalação da Ferramenta**
       - [ ] Abra o aplicativo nativo do Ubuntu "Ubuntu Software".
       - [ ] Na pesquisa digite o nome do aplicativo "Postman".
@@ -64,14 +64,10 @@ Atividade I para a matéria de Desenvolvimento Web IV do aluno Bruno de Oliveira
       
       
 ## 7 - Httpie
-1. É um .
-2. Versão 
+1. É um cliente capaz de mandar requisições HTTP via terminal, a fim de testar, depurar e interagir com servidores HTTP.
+2. Versão Httpie 0.9.8
 3. - [ ] **Instalação da Ferramenta**
-      - [ ] Vá ao site de [downloads do spring tools](https://spring.io/tools) e baixe a versão para Línux.
-      - [ ] No terminal, abra o diretório onde o arquivo está.
-      - [ ] Execute "sudo <nome do arquivo> /opt" para mover o arquivo parao diretóorio onde será descompactado.
-      - [ ] Mova-se para o diretório opt com "mv /opt" e descompacte o arquivo com "sudo tar zxvf <nome do arquivo>.
-      - [ ] Mova-se para o diretório que foi criado com "mv sts-4.13.0.RELEASE".
-      - [ ] Para abrir a IDE use o comando "sudo ./SpringToolSuite4".
+      - [ ] No terminal, execute o comando "sudo get-apt install httpie".
+      - [ ] Após o download e instalação a aplicação estará pronta para o uso.
 4. Configurado para Ubuntu.
           

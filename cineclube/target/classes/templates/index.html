@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+
+<div th:replace="head:: head"/>
+
+<body>
+ <div th:replace="menu:: menu"/>
+  <main class="container">
+        
+    <div class="bg-light p-5 rounded">
+    
+    <div class="row">
+        <a th:href="@{/filmes/list}">Listar Filmes</a>
+    </div>
+    <div class="row">
+        <a th:href="@{/pessoas/list}">Listar Pessoas</a>
+    </div>
+
+      
+    </div>
+  </main>
+  <script type="text/javascript" th:src="@{/js/bootstrap.bundle.min.js}"></script>
+</body>
+</html>
